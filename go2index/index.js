@@ -32,12 +32,7 @@ var authConfig = {
       user: "",
       pass: "",
       protect_file_link: true,
-    },
-    {
-      id: "",
-      name: "folder1",
-      pass: "",
-    },
+    }
   ],
   default_gd: 0,
   /**
