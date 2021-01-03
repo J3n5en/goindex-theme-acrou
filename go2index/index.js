@@ -62,7 +62,7 @@ var authConfig = {
 var themeOptions = {
   cdn: "https://cdn.jsdelivr.net/gh/MOOGAA/goindex-theme-acrou",
   // 主题版本号
-  version: "2.0.8",
+  version: "2.9.9",
   //可选默认系统语言:en/zh-chs/zh-cht
   languages: "en",
   render: {
@@ -75,7 +75,7 @@ var themeOptions = {
      * 是否渲染README.md文件
      * Render README.md file
      */
-    readme_md: false,
+    readme_md: true,
     /**
      * 是否渲染文件/文件夹描述
      * Render file/folder description or not
